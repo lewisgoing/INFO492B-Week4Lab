@@ -17,7 +17,7 @@ A curated list of free plugins that are compatible with both Ableton Suite and L
 
 ### FX
 
-- [MeldaProduction Free Plugin Installer(https://www.meldaproduction.com/downloads): A comprehensive collection of free effect plugins (includes Melda AutoPitch)
+- [MeldaProduction Free Plugin Installer](https://www.meldaproduction.com/downloads): A comprehensive collection of free effect plugins (includes Melda AutoPitch)
 
 ### HQ Instrument Sample Library
 
