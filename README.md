@@ -27,7 +27,7 @@ A curated list of free plugins that are compatible with both Ableton Suite and L
 
 - [Graillon Free Autotune](https://www.auburnsounds.com/products/Graillon.html): A versatile plugin for pitch correction and vocal effects.
 
-## Ableton MagentaStudio Max for Live Plugin
+### Ableton MagentaStudio Max for Live Plugin
 Note that this will only work on those using the Ableton Trial, those who purchase the Intro version will not be able to use this due to the Intro version not having Max4Live.
 
 [MagentaStudio](https://magenta.tensorflow.org/studio/ableton-live/)
