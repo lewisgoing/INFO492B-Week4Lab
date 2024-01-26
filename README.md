@@ -188,5 +188,8 @@ After that, you can lower a few other frequency areas by -1 to -2dB. What to low
   - Use AI song stem splitters to get a more detailed look into your reference tracks.
 - **Experiment:** Try different processing chains and settings to understand their impact on various vocal recordings. 
   - Different vocal styles will have vastly different vocal chains. 
-  - If you have a specific style in mind, I recommend looking up tutorials on how to recreate that artist's vocal chain.  
+  - If you have a specific style in mind, I recommend looking up tutorials on how to recreate that artist's vocal chain.
+ 
+### Questions
+Music production has a steep learning curve and can be frustrating, so feel free to reach out on Discord with any signal flow/production/mixing questions before overthinking things!
 
