@@ -14,9 +14,10 @@ In this lab, we will be going over audio processing and mixing, and recording wi
  - Plug the mic in and ensure that `48V` is turned on.
  - Set the gain knob for that input somewhere in the middle. Avoid clipping when recording dry signals.
  - Create a new Audio track in Ableton
- - Set the audio track input to either 1 or 2 (whichever input is plugged into the Focusrite Audio Interface).
+ - Set the audio track input to either 1 or 2 (whichever input is plugged into the Focusrite Audio Interface). Notice the input volume level changing in real-time with the audio signal (if configured correctly).
  - Click the button furthest to the right on the track to arm it for recording.
  - <img width="294" alt="image" src="https://github.com/lewisgoing/INFO492B-Week4Lab/assets/121900269/07abf032-4fb6-4f1d-8cff-0afe19202530">
+ - Change the track mode from `Off` or `Auto` to `In` to hear playback from the mic input. Change this back if you would like to hear track audio again.
 
 ## Free Plugins
 
