@@ -149,10 +149,10 @@ After that, you can lower a few other frequency areas by -1 to -2dB. What to low
 
 - **Objective:** Control the dynamic range, ensuring the vocals are consistently present and blend well with the track.
 - **Settings:** 
-- Use a moderate ratio (2:1 or 4:1) and threshold to avoid over-compression. 
-- Set your threshold to a db level slightly above the average vocal level (in dB). Essentially, you want to control the peaks so that they are not too loud but not compressing everything and taking the life away from the vocal. 
-- Adjust the attack and release to suit the vocal style and tempo of the track.
-- ![Alt text](image-1.png)
+    - Use a moderate ratio (2:1 or 4:1) and threshold to avoid over-compression. 
+    - Set your threshold to a db level slightly above the average vocal level (in dB). Essentially, you want to control the peaks so that they are not too loud but not compressing everything and taking the life away from the vocal. 
+    - Adjust the attack and release to suit the vocal style and tempo of the track.
+    - ![Alt text](image-1.png)
 - **Note:** 
   - Compression can also add character to the vocal, so experiment with different compressor types and parameters.
 - **Tools:** 
