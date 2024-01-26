@@ -3,6 +3,21 @@
 ## Overview
 In this lab, we will be going over audio processing and mixing, and recording with an audio interface.
 
+## Audio Interface Setup
+- On Windows, download Focusrite Control
+- Connect the audio interface and open Ableton
+- Open the preferences by pressing `Command + ,` on Mac or `Control + ,` on Windows
+- Windows Users
+    - Under `Audio` settings, change the `Driver Type` to ASIO and set the driver to Focusrite USB ASIO.
+- Mac Users
+    - Under `Audio` settings, change the Audio Input and Output devices to Focusrite 2i2.
+ - Plug the mic in and ensure that `48V` is turned on.
+ - Set the gain knob for that input somewhere in the middle. Avoid clipping when recording dry signals.
+ - Create a new Audio track in Ableton
+ - Set the audio track input to either 1 or 2 (whichever input is plugged into the Focusrite Audio Interface).
+ - Click the button furthest to the right on the track to arm it for recording.
+ - <img width="294" alt="image" src="https://github.com/lewisgoing/INFO492B-Week4Lab/assets/121900269/07abf032-4fb6-4f1d-8cff-0afe19202530">
+
 ## Free Plugins
 
 A curated list of free plugins that are compatible with both Ableton Suite and Lite versions. These plugins will help you in tuning, sampling, effects, and expanding your instrument library.  
