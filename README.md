@@ -1,7 +1,7 @@
 # INFO492 B - Recording and Mixing Lab
 
 ## Overview
-In this lab, we will be going over audio processing and mixing, and recording with an audio interface.
+In this lab, we will be going over audio processing and mixing, and recording with an audio interface. Not everything in this readme needs to be completed in class today; use this as a guide you can reference when producing/mixing your tracks.
 
 ## Audio Interface Setup
 - On Windows, download Focusrite Control
